@@ -1,0 +1,12 @@
+{
+  "layout_review": "major panel and workflow grouping visually reviewed",
+  "text_review": "top-left Δm error corrected in second candidate; complete glyph-level verification not available",
+  "chemical_connectivity_parity": "unverified",
+  "bond_order_and_chain_length_parity": "unverified",
+  "fragmentation_arrow_parity": "unverified",
+  "numeric_plot_geometry_parity": "unverified",
+  "content_parity_gate": "not passed",
+  "submission_ready": false,
+  "redo_required": true,
+  "next_requirement": "High-resolution or vector original for exact reconstruction and strict parity checks"
+}

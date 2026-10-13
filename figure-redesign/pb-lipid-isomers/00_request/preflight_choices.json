@@ -1,0 +1,12 @@
+{
+  "mode": "image-to-editable; scientific-content-preserving visual redesign",
+  "purpose": "SCI manuscript figure",
+  "figure_type": "two-panel lipid double-bond positional-isomer PB reaction and MS identification/quantitation diagram",
+  "target_style": "Nature/IEEE-like clean white background, green/red isomer distinction, navy reaction labels",
+  "scientific_content_changes_allowed": false,
+  "style_changes_allowed": ["palette", "typography", "line style", "background", "shadow", "icon appearance", "layout aesthetics"],
+  "outputs_requested": ["high-resolution PNG", "editable SVG or PPTX if feasible"],
+  "github_repository": "yy8jiuk25m23/scientific-figure",
+  "source": "user image attached in conversation; original file not present in workspace",
+  "uncertainty_policy": "Preserve original content, never infer missing scientific information. Do not certify unverified molecular structures."
+}

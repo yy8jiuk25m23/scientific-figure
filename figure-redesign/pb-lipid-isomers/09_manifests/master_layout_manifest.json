@@ -1,0 +1,11 @@
+{
+  "source_canvas": [677, 661],
+  "panels": ["A: C=C location isomers, PB/CID mechanism and diagnostic ions", "B: on-line PB, nanoESI-MS, MS/MS, diagnostic-peak spacing and quantitation"],
+  "fineRegions": ["isomer A parent chain, double bond, delta m and charge", "isomer B parent chain, double bond, delta n and charge", "acetone reagent A", "acetone reagent B", "two A oxetane products", "two B oxetane products", "four CID neutral-loss structures", "diagnostic ion m1", "diagnostic ion m2", "diagnostic ion n1", "diagnostic ion n2", "UV lamp", "HV electrospray apparatus", "MS inlet", "nanoESI-MS reactant and product spectra", "MS/MS diagnostic and product spectra", "diagnostic-ion inset with four peaks and two 26 Da intervals", "calibration scatter and formula", "A/B concentration bars"],
+  "routeSegments": ["two branched downward PB reaction arrows", "four downward CID arrows", "four curved fragmentation/loss arrows", "four dashed blue fragmentation indications", "rightward on-line PB to nanoESI-MS", "rightward nanoESI-MS to MS/MS", "rightward +58 Da reactant-to-product mass shift", "two inset dashed guides", "leftward diagnostic inset to calibration", "leftward calibration to concentration bars", "two bidirectional 26 Da spacings"],
+  "legendItems": ["green isomer A", "red isomer B", "PB reaction +58 Da", "UV lamp ~254 nm", "diagnostic ion labels m1 m2 n1 n2"],
+  "smallIcons": ["all +/- charge circles", "all O atoms", "all carbon-carbon single and double bonds", "all chain continuation waves", "UV rays", "HV circle"],
+  "text_inventory": ["A", "C=C location isomer A", "C=C location isomer B", "Δm", "Δn", "hν", "PB reaction", "+58 Da", "CID", "m1", "m2", "n1", "n2", "diagnostic ions of A", "diagnostic ions of B", "B", "On-line PB reaction", "nanoESI-MS", "MS/MS", "UV lamp", "~254 nm", "HV", "lipids in acetone/water", "MS inlet", "A,B", "PB products", "Relative Intensity", "m/z", "diagnostic ions", "PB products of A,B", "Lipid C=C isomer ID & quantitation", "μM", "A", "B", "(I_m1+I_m2)/(I_n1+I_n2)", "C_A/C_B", "26 Da"],
+  "scientific_parity_status": "pending individual final-image inspection",
+  "first_candidate_rejected": "Top-left Δm incorrectly became Δn."
+}
