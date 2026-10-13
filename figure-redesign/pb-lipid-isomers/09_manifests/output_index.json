@@ -7,5 +7,7 @@
   "status": "review candidate; exact content parity not passed",
   "editable_svg": null,
   "editable_pptx": null,
-  "qa": "10_qa/QA_notes.md"
+  "qa": "10_qa/QA_notes.md",
+  "blue_white_png": "08_previews/pb-lipid-isomers-blue-white-review.png",
+  "blue_white_qa": "10_qa/blue-white-review.md"
 }
