@@ -1,0 +1,43 @@
+{
+  "editions": [
+    {
+      "name": "figure1-AB",
+      "svg": "figure1-AB.svg",
+      "png": "figure1-AB.png",
+      "pixels": [
+        4800,
+        3600
+      ]
+    },
+    {
+      "name": "figure1A-PB",
+      "svg": "figure1A-PB.svg",
+      "png": "figure1A-PB.png",
+      "pixels": [
+        4800,
+        1830
+      ]
+    },
+    {
+      "name": "figure1-AB-single-column",
+      "svg": "figure1-AB-single-column.svg",
+      "png": "figure1-AB-single-column.png",
+      "pixels": [
+        2079,
+        7460
+      ]
+    },
+    {
+      "name": "figure1A-PB-single-column",
+      "svg": "figure1A-PB-single-column.svg",
+      "png": "figure1A-PB-single-column.png",
+      "pixels": [
+        2079,
+        3108
+      ]
+    }
+  ],
+  "source": "User-confirmed original A/B schematic",
+  "QA": "QA.json",
+  "source_map": "master_layout_manifest.json"
+}

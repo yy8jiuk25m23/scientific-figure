@@ -1,0 +1,22 @@
+{
+  "validation": [
+    "Four oxetanes: 4 vertices/one O/two methyls; native SVG joints checked",
+    "m1/n1 aldehyde and m2/n2 dimethylalkene mapping checked",
+    "Manual independent source-visible review of chemistry/labels/flow completed",
+    "Native SVG, PNG dimensions, PB-only content isolation checked",
+    "Overview and inset peak heights preserve source m1<m2<n1<n2",
+    "Formula kept as intensity ratio with a separate concentration-ratio calibration plot"
+  ],
+  "complete_pixels": [
+    4800,
+    3600
+  ],
+  "PB_only_pixels": [
+    4800,
+    1830
+  ],
+  "source_limit": "Original is a low-resolution generic schematic. Wavy ends remain unspecified continuation; no full molecule formula or hidden atom count is asserted. Spectrum/chart geometry is manually reconstructed from source, not a new experimental dataset.",
+  "layout": "Gray apparatus/arrows/axes; teal A/red-orange B; violet254nm illumination; larger quantitation-heading clearance; uniform card strokes; source chemistry has no generative-image substitutions.",
+  "single_column_scene_checks": "8 of 8 source native scene geometry/data identity checks passed (ordinary font-size changes excluded)",
+  "print_versions": "Complete horizontal at180mm double column; dedicated vertical PB edition at88mm single column. Full vertical supplement at88mm is315.8mm tall."
+}

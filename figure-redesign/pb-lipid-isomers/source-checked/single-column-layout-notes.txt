@@ -1,0 +1,8 @@
+Optional single-column layouts
+
+Source: checked native SVG semantic groups; molecular bonds, substitutions, CID structures, spectrum peaks, calibration line/points and bars are transplanted.
+Only inter-module flow arrows and zoom connectors are repositioned. Ordinary labels smaller than 22 px at 780 px width are enlarged; variable indices retain their native size.
+
+Full A+B: 780 × 2799 SVG units; physical size at 88 mm width is 88 × 315.8 mm. This is a tall supplemental layout.
+PB-only: 780 × 1166 SVG units; physical size at 88 mm width is 88 × 131.5 mm.
+PNG resolution: 600 dpi at 88 mm width.
