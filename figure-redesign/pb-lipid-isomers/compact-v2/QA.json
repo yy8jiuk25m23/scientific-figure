@@ -1,0 +1,25 @@
+{
+  "png_dimensions": [
+    4800,
+    3102
+  ],
+  "previous_dimensions": [
+    4800,
+    3420
+  ],
+  "canvas_height_reduction_percent": 9.3,
+  "corrections": [
+    "PB substrate chain endpoints now coincide with ring carbon vertices in all four products; verified by coordinate assertions",
+    "fragmentation dash and arrow placement corrected",
+    "concentration-axis labels restored to uppercase A and B",
+    "intensity formula rendered with explicitly positioned subscripts",
+    "diagnostic structures moved upward to fit highlighted boxes"
+  ],
+  "checks": [
+    "SVG parsed",
+    "PNG decoded at expected resolution",
+    "key labels checked",
+    "preview visually inspected"
+  ],
+  "remaining_review": "Atom-by-atom chain-count agreement with original low-resolution image has not been certified. User was asked to identify any additional observed scientific errors; specific response still pending."
+}

@@ -1,0 +1,305 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1034" viewBox="0 0 1600 1034"><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="context-stroke"/></marker></defs><g font-family="Arial,Helvetica,sans-serif" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="1600" height="1034" rx="0" fill="white" stroke="none"/>
+<text x="40" y="43" fill="#174D78" font-size="32" font-weight="700" text-anchor="start">A</text>
+<rect x="42" y="58" width="728" height="468" rx="18" fill="#F7FAFD" stroke="#D9E5EF"/>
+<text x="68" y="94" fill="#174D78" font-size="25" font-weight="700" text-anchor="start">C=C location isomer A</text>
+<g transform="translate(314,130) scale(1.35)">
+<path d="M-15,8 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#174D78" stroke-width="2.5"/>
+<polyline points="0,8 14,0 28,8 42,0 56,8 70,0 84,6 94,20 112,16" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<path d="M70.42432280568333,4.0 L80.42432280568333,10" fill="none" stroke="#174D78" stroke-width="1.8"/>
+<circle cx="123" cy="16" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="123" y="20" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<text x="55" y="-12" fill="#152B3B" font-size="13" font-weight="400" text-anchor="start" font-style="italic">Δm</text>
+</g>
+<g transform="translate(293,190) scale(1.1)">
+<polyline points="-15,12 0,3 15,12" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M0,3 L0,-12" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,3.0 L4.0,-12.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-15" fill="#152B3B" font-size="15" font-weight="400" text-anchor="middle">O</text>
+</g>
+<text x="403" y="194" fill="#174D78" font-size="23" font-weight="400" text-anchor="start" font-style="italic">hν</text>
+<text x="72" y="195" fill="#174D78" font-size="18" font-weight="400" text-anchor="start" font-style="italic">PB reaction</text>
+<text x="72" y="221" fill="#174D78" font-size="20" font-weight="700" text-anchor="start">+58 Da</text>
+<path d="M397,174 L397,229" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<polyline points="232,244 232,229 582,229 582,244" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<path d="M232,229 L232,253" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M582,229 L582,253" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<g transform="translate(232,296) scale(1.25)">
+<path d="M-89,18 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#174D78" stroke-width="2.5"/>
+<polyline points="-74,18 -60,10 -46,18 -32,10 -18,18 -4,10" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<polyline points="-4,10 2,-12 17,-8 14,14 -4,10" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<rect x="10" y="-16" width="15" height="16" rx="0" fill="white" stroke="none"/>
+<text x="17" y="-3" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="2,-12 -8,-27" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="2,-12 8,-31" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="14,14 25,27 47,27" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<circle cx="58" cy="27" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="58" y="31" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<path d="M8,-24 L-2,22" fill="none" stroke="#174D78" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M-2,22 l7,8" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+</g>
+<path d="M237,345 L237,390" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="260" y="378" fill="#152B3B" font-size="19" font-weight="700" text-anchor="start">CID</text>
+<g transform="translate(177,379) scale(0.8)">
+<path d="M-71,12 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#174D78" stroke-width="2.5"/>
+<polyline points="-56,12 -42,4 -28,12 -14,4 0,12" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<path d="M0,12 L0,-6" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,12.0 L4.0,-6.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<polyline points="0,-6 -13,-14" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="0,-6 13,-14" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+</g>
+<path d="M227,345 Q224,366 199,374" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="172" y="404" width="153" height="80" rx="12" fill="#E7F0F8" stroke="none"/>
+<g transform="translate(211,432) scale(1.12)">
+<path d="M0,0 L0,-15" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,0.0 L4.0,-15.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-19" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="0,0 8,16 30,16" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<circle cx="41" cy="16" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="41" y="20" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+</g>
+<text x="342" y="451" fill="#174D78" font-size="25" font-weight="700" text-anchor="start" font-style="italic">m1</text>
+<g transform="translate(582,296) scale(1.25)">
+<path d="M-89,18 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#174D78" stroke-width="2.5"/>
+<polyline points="-74,18 -60,10 -46,18 -32,10 -18,18 -4,10" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<polyline points="-4,10 0,-10 17,-15 20,10 -4,10" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<rect x="-8" y="-17" width="15" height="15" rx="0" fill="white" stroke="none"/>
+<text x="0" y="-3" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="17,-15 15,-34" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="17,-15 31,-23" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="20,10 33,22 55,22" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<circle cx="66" cy="22" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="66" y="26" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<path d="M13,-29 L13,19" fill="none" stroke="#174D78" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M13,19 l7,8" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+</g>
+<path d="M587,345 L587,390" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="610" y="378" fill="#152B3B" font-size="19" font-weight="700" text-anchor="start">CID</text>
+<g transform="translate(527,379) scale(0.8)">
+<path d="M-71,12 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#174D78" stroke-width="2.5"/>
+<polyline points="-56,12 -42,4 -28,12 -14,4 0,12" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<path d="M0,12 L0,-2" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,12.0 L4.0,-2.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-6" fill="#152B3B" font-size="13" font-weight="400" text-anchor="middle">O</text>
+</g>
+<path d="M577,345 Q574,366 549,374" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="522" y="404" width="153" height="80" rx="12" fill="#E7F0F8" stroke="none"/>
+<g transform="translate(561,432) scale(1.12)">
+<path d="M0,0 L0,18" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M-4.0,0.0 L-4.0,18.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<polyline points="-14,-8 0,0 14,-7" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="0,18 0,34 18,43" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<circle cx="29" cy="43" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="29" y="47" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+</g>
+<text x="692" y="451" fill="#174D78" font-size="25" font-weight="700" text-anchor="start" font-style="italic">m2</text>
+<text x="406" y="507" fill="#174D78" font-size="22" font-weight="700" text-anchor="middle">diagnostic ions of A</text>
+<rect x="830" y="58" width="728" height="468" rx="18" fill="#F7FAFD" stroke="#D9E5EF"/>
+<text x="856" y="94" fill="#278BC1" font-size="25" font-weight="700" text-anchor="start">C=C location isomer B</text>
+<g transform="translate(1102,130) scale(1.35)">
+<path d="M-15,20 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#278BC1" stroke-width="2.5"/>
+<polyline points="0,20 14,20 24,2 42,-2 57,8 71,0 85,8 100,0" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<path d="M26.867721831274626,6.0 L40.86772183127462,2" fill="none" stroke="#278BC1" stroke-width="1.8"/>
+<circle cx="111" cy="0" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="111" y="4" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<text x="55" y="-12" fill="#152B3B" font-size="13" font-weight="400" text-anchor="start" font-style="italic">Δn</text>
+</g>
+<g transform="translate(1081,190) scale(1.1)">
+<polyline points="-15,12 0,3 15,12" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M0,3 L0,-12" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,3.0 L4.0,-12.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-15" fill="#152B3B" font-size="15" font-weight="400" text-anchor="middle">O</text>
+</g>
+<text x="1191" y="194" fill="#174D78" font-size="23" font-weight="400" text-anchor="start" font-style="italic">hν</text>
+<text x="860" y="195" fill="#174D78" font-size="18" font-weight="400" text-anchor="start" font-style="italic">PB reaction</text>
+<text x="860" y="221" fill="#174D78" font-size="20" font-weight="700" text-anchor="start">+58 Da</text>
+<path d="M1185,174 L1185,229" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<polyline points="1020,244 1020,229 1370,229 1370,244" fill="none" stroke="#174D78" stroke-width="2.4"/>
+<path d="M1020,229 L1020,253" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M1370,229 L1370,253" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<g transform="translate(1020,296) scale(1.25)">
+<path d="M-47,10 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#278BC1" stroke-width="2.5"/>
+<polyline points="-32,10 -18,2 -4,10" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<polyline points="-4,10 2,-12 17,-8 14,14 -4,10" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<rect x="10" y="-16" width="15" height="16" rx="0" fill="white" stroke="none"/>
+<text x="17" y="-3" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="2,-12 -8,-27" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="2,-12 8,-31" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="14,14 28,6 42,14 56,6 70,14 84,6" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<circle cx="95" cy="6" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="95" y="10" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<path d="M8,-24 L-2,22" fill="none" stroke="#174D78" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M-2,22 l7,8" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+</g>
+<path d="M1025,345 L1025,390" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="1048" y="378" fill="#152B3B" font-size="19" font-weight="700" text-anchor="start">CID</text>
+<g transform="translate(965,379) scale(0.8)">
+<path d="M-29,12 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#278BC1" stroke-width="2.5"/>
+<polyline points="-14,12 0,4" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<path d="M0,4 L0,-14" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,4.0 L4.0,-14.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<polyline points="0,-14 -13,-22" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="0,-14 13,-22" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+</g>
+<path d="M1015,345 Q1012,366 987,374" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="960" y="404" width="153" height="80" rx="12" fill="#DCEEF9" stroke="none"/>
+<g transform="translate(999,432) scale(1.12)">
+<path d="M0,0 L0,-15" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,0.0 L4.0,-15.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-19" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="0,0 14,8 28,0 42,8 56,0" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<circle cx="67" cy="0" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="67" y="4" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+</g>
+<text x="1130" y="451" fill="#278BC1" font-size="25" font-weight="700" text-anchor="start" font-style="italic">n1</text>
+<g transform="translate(1370,296) scale(1.25)">
+<path d="M-47,10 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#278BC1" stroke-width="2.5"/>
+<polyline points="-32,10 -18,2 -4,10" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<polyline points="-4,10 0,-10 17,-15 20,10 -4,10" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<rect x="-8" y="-17" width="15" height="15" rx="0" fill="white" stroke="none"/>
+<text x="0" y="-3" fill="#152B3B" font-size="14" font-weight="400" text-anchor="middle">O</text>
+<polyline points="17,-15 15,-34" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="17,-15 31,-23" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="20,10 34,2 48,10 62,2 76,10 90,2" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<circle cx="101" cy="2" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="101" y="6" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+<path d="M13,-29 L13,19" fill="none" stroke="#174D78" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M13,19 l7,8" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+</g>
+<path d="M1375,345 L1375,390" fill="none" stroke="#174D78" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="1398" y="378" fill="#152B3B" font-size="19" font-weight="700" text-anchor="start">CID</text>
+<g transform="translate(1315,379) scale(0.8)">
+<path d="M-29,12 l3,-3 l3,3 l3,-3 l3,3 l3,-3 l3,3" fill="none" stroke="#278BC1" stroke-width="2.5"/>
+<polyline points="-14,12 0,4" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<path d="M0,4 L0,-10" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M4.0,4.0 L4.0,-10.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<text x="0" y="-14" fill="#152B3B" font-size="13" font-weight="400" text-anchor="middle">O</text>
+</g>
+<path d="M1365,345 Q1362,366 1337,374" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1310" y="404" width="153" height="80" rx="12" fill="#DCEEF9" stroke="none"/>
+<g transform="translate(1349,432) scale(1.12)">
+<path d="M0,0 L0,18" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<path d="M-4.0,0.0 L-4.0,18.0" fill="none" stroke="#152B3B" stroke-width="1.8"/>
+<polyline points="-14,-8 0,0 14,-7" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<polyline points="0,18 14,26 28,18 42,26 56,18" fill="none" stroke="#278BC1" stroke-width="2.4"/>
+<circle cx="67" cy="18" r="10" fill="#E6F0F7" stroke="#152B3B"/>
+<text x="67" y="22" fill="#152B3B" font-size="10" font-weight="400" text-anchor="middle">+/−</text>
+</g>
+<text x="1480" y="451" fill="#278BC1" font-size="25" font-weight="700" text-anchor="start" font-style="italic">n2</text>
+<text x="1194" y="507" fill="#278BC1" font-size="22" font-weight="700" text-anchor="middle">diagnostic ions of B</text>
+<text x="40" y="569" fill="#174D78" font-size="32" font-weight="700" text-anchor="start">B</text>
+<g transform="translate(0,-62)">
+<rect x="42" y="643" width="445" height="249" rx="14" fill="#FAFCFE" stroke="#DBE6EF"/>
+<text x="62" y="676" fill="#174D78" font-size="23" font-weight="700" text-anchor="start">On-line PB reaction</text>
+<rect x="527" y="643" width="437" height="249" rx="14" fill="#FAFCFE" stroke="#DBE6EF"/>
+<text x="547" y="676" fill="#174D78" font-size="23" font-weight="700" text-anchor="start">nanoESI-MS</text>
+<rect x="1004" y="643" width="554" height="249" rx="14" fill="#FAFCFE" stroke="#DBE6EF"/>
+<text x="1024" y="676" fill="#174D78" font-size="23" font-weight="700" text-anchor="start">MS/MS</text>
+<text x="65" y="716" fill="#174D78" font-size="16" font-weight="400" text-anchor="start">UV lamp</text>
+<text x="65" y="741" fill="#174D78" font-size="18" font-weight="700" text-anchor="start">~254 nm</text>
+<polyline points="83,797 83,767 225,767" fill="none" stroke="#152B3B" stroke-width="2.4"/>
+<circle cx="83" cy="815" r="19" fill="white" stroke="#152B3B"/>
+<text x="83" y="820" fill="#152B3B" font-size="15" font-weight="700" text-anchor="middle">HV</text>
+<rect x="236" y="713" width="10" height="21" rx="4" fill="#B1D7EE" stroke="#174D78"/>
+<circle cx="241" cy="738" r="10" fill="#B1D7EE" stroke="#174D78"/>
+<path d="M234,754 L223,768" fill="none" stroke="#278BC1" stroke-width="1.7"/>
+<path d="M241,754 L241,768" fill="none" stroke="#278BC1" stroke-width="1.7"/>
+<path d="M248,754 L259,768" fill="none" stroke="#278BC1" stroke-width="1.7"/>
+<path d="M143,763 L225,763" fill="none" stroke="#61798B" stroke-width="3"/>
+<path d="M143,770 L225,770" fill="none" stroke="#61798B" stroke-width="3"/>
+<path d="M220,767 Q252,761 271,749" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<path d="M220,767 Q252,764 271,758" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<path d="M220,767 Q252,767 271,767" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<path d="M220,767 Q252,770 271,776" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<path d="M220,767 Q252,773 271,785" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<polyline points="309,730 295,743 295,758" fill="none" stroke="#61798B" stroke-width="4"/>
+<polyline points="309,803 295,790 295,775" fill="none" stroke="#61798B" stroke-width="4"/>
+<path d="M316,750 L331,730" fill="none" stroke="#61798B" stroke-width="4"/>
+<path d="M316,784 L331,806" fill="none" stroke="#61798B" stroke-width="4"/>
+<text x="302" y="716" fill="#152B3B" font-size="17" font-weight="400" text-anchor="middle">MS inlet</text>
+<text x="205" y="838" fill="#174D78" font-size="17" font-weight="400" text-anchor="middle">lipids in</text>
+<text x="205" y="862" fill="#174D78" font-size="17" font-weight="400" text-anchor="middle">acetone/water</text>
+<path d="M455,780 L512,780" fill="none" stroke="#174D78" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M932,780 L990,780" fill="none" stroke="#174D78" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M574,843 L885,843" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<path d="M574,843 L574,721" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<text x="891" y="846" fill="#152B3B" font-size="15" font-weight="400" text-anchor="start" font-style="italic">m/z</text>
+<text transform="translate(552,782.0) rotate(-90)" text-anchor="middle" font-size="13" fill="#152B3B">Relative Intensity</text>
+<path d="M623,843 L623,747" fill="none" stroke="#152B3B" stroke-width="3"/>
+<text x="623" y="731" fill="#174D78" font-size="18" font-weight="700" text-anchor="middle">A,B</text>
+<path d="M754,843 L754,782" fill="none" stroke="#174D78" stroke-width="3"/>
+<text x="769" y="727" fill="#174D78" font-size="18" font-weight="700" text-anchor="middle">PB products</text>
+<text x="769" y="753" fill="#174D78" font-size="18" font-weight="700" text-anchor="middle">+58 Da</text>
+<path d="M626,791 L747,791" fill="none" stroke="#174D78" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1057,843 L1489,843" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<path d="M1057,843 L1057,720" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<text x="1495" y="846" fill="#152B3B" font-size="15" font-weight="400" text-anchor="start" font-style="italic">m/z</text>
+<text transform="translate(1035,781.5) rotate(-90)" text-anchor="middle" font-size="13" fill="#152B3B">Relative Intensity</text>
+<path d="M1101,843 L1101,797" fill="none" stroke="#174D78" stroke-width="3"/>
+<path d="M1112,843 L1112,779" fill="none" stroke="#174D78" stroke-width="3"/>
+<path d="M1162,843 L1162,780" fill="none" stroke="#278BC1" stroke-width="3"/>
+<path d="M1173,843 L1173,759" fill="none" stroke="#278BC1" stroke-width="3"/>
+<path d="M1392,843 L1392,805" fill="none" stroke="#152B3B" stroke-width="3"/>
+<path d="M1423,843 L1423,788" fill="none" stroke="#174D78" stroke-width="3"/>
+<polyline points="1093,747 1093,740 1181,740 1181,747" fill="none" stroke="#61798B" stroke-width="1.5"/>
+<text x="1137" y="716" fill="#152B3B" font-size="16" font-weight="400" text-anchor="middle">diagnostic ions</text>
+<text x="1400" y="720" fill="#174D78" font-size="17" font-weight="400" text-anchor="middle">PB products of</text>
+<text x="1400" y="746" fill="#174D78" font-size="18" font-weight="700" text-anchor="middle">A,B</text>
+</g>
+<g transform="translate(0,-104)">
+<text x="42" y="953" fill="#174D78" font-size="25" font-weight="700" text-anchor="start">Lipid C=C isomer ID &amp; quantitation</text>
+<rect x="1040" y="935" width="518" height="174" rx="12" fill="#F4F9FD" stroke="#C5DFEF"/>
+<path d="M1093,1083 L1093,980" fill="none" stroke="#152B3B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M1093,1083 L1515,1083" fill="none" stroke="#152B3B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M1150,1083 L1150,1038" fill="none" stroke="#174D78" stroke-width="3"/>
+<text x="1150" y="1029" fill="#174D78" font-size="19" font-weight="700" text-anchor="middle" font-style="italic">m1</text>
+<path d="M1232,1083 L1232,1013" fill="none" stroke="#174D78" stroke-width="3"/>
+<text x="1232" y="1004" fill="#174D78" font-size="19" font-weight="700" text-anchor="middle" font-style="italic">m2</text>
+<path d="M1351,1083 L1351,1021" fill="none" stroke="#278BC1" stroke-width="3"/>
+<text x="1351" y="1012" fill="#278BC1" font-size="19" font-weight="700" text-anchor="middle" font-style="italic">n1</text>
+<path d="M1433,1083 L1433,985" fill="none" stroke="#278BC1" stroke-width="3"/>
+<text x="1433" y="976" fill="#278BC1" font-size="19" font-weight="700" text-anchor="middle" font-style="italic">n2</text>
+<path d="M1154,1051 L1228,1051" fill="none" stroke="#152B3B" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M1228,1051 L1154,1051" fill="none" stroke="#152B3B" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1191.0" y="1075" fill="#152B3B" font-size="16" font-weight="400" text-anchor="middle">26 Da</text>
+<path d="M1355,1034 L1429,1034" fill="none" stroke="#152B3B" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M1429,1034 L1355,1034" fill="none" stroke="#152B3B" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1392.0" y="1058" fill="#152B3B" font-size="16" font-weight="400" text-anchor="middle">26 Da</text>
+<path d="M1101,885 L1049,934" fill="none" stroke="#278BC1" stroke-width="1.1" stroke-dasharray="4 4"/>
+<path d="M1173,885 L1553,934" fill="none" stroke="#278BC1" stroke-width="1.1" stroke-dasharray="4 4"/>
+<path d="M1019,1028 L978,1028" fill="none" stroke="#174D78" stroke-width="2.8" marker-end="url(#arrow)"/>
+<path d="M718,1091 L928,1091" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<path d="M718,1091 L718,964" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<path d="M733,1076 L909,969" fill="none" stroke="#174D78" stroke-width="1.6"/>
+<circle cx="748" cy="1067" r="4" fill="#174D78" stroke="none"/>
+<circle cx="791" cy="1041" r="4" fill="#174D78" stroke="none"/>
+<circle cx="836" cy="1013" r="4" fill="#174D78" stroke="none"/>
+<circle cx="887" cy="982" r="4" fill="#174D78" stroke="none"/>
+<text x="803" y="1120" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">C</text>
+<text x="816" y="1126" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">A</text>
+<text x="834" y="1120" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start">/</text>
+<text x="851" y="1120" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">C</text>
+<text x="864" y="1126" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">B</text>
+<text x="578" y="1009" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">I</text>
+<text x="585" y="1014" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">m1</text>
+<text x="609" y="1009" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start">+</text>
+<text x="630" y="1009" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">I</text>
+<text x="637" y="1014" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">m2</text>
+<text x="578" y="1043" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">I</text>
+<text x="585" y="1048" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">n1</text>
+<text x="609" y="1043" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start">+</text>
+<text x="630" y="1043" fill="#152B3B" font-size="18" font-weight="400" text-anchor="start" font-style="italic">I</text>
+<text x="637" y="1048" fill="#152B3B" font-size="12" font-weight="400" text-anchor="start" font-style="italic">n2</text>
+<path d="M569,1020 L678,1020" fill="none" stroke="#152B3B" stroke-width="1.5"/>
+<path d="M530,1028 L486,1028" fill="none" stroke="#174D78" stroke-width="2.8" marker-end="url(#arrow)"/>
+<path d="M155,1091 L436,1091" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<path d="M155,1091 L155,968" fill="none" stroke="#152B3B" stroke-width="1.7" marker-end="url(#arrow)"/>
+<text x="128" y="1033" fill="#152B3B" font-size="18" font-weight="400" text-anchor="middle" font-style="italic">μM</text>
+<rect x="219" y="1041" width="38" height="50" rx="0" fill="#174D78" stroke="none"/>
+<rect x="335" y="998" width="38" height="93" rx="0" fill="#278BC1" stroke="none"/>
+<text x="238" y="1028" fill="#152B3B" font-size="17" font-weight="400" text-anchor="middle" font-style="italic">Δm</text>
+<text x="354" y="985" fill="#152B3B" font-size="17" font-weight="400" text-anchor="middle" font-style="italic">Δn</text>
+<text x="238" y="1117" fill="#174D78" font-size="19" font-weight="700" text-anchor="middle">A</text>
+<text x="354" y="1117" fill="#278BC1" font-size="19" font-weight="700" text-anchor="middle">B</text>
+</g>
+</g></svg>
