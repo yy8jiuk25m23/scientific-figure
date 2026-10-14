@@ -1,0 +1,49 @@
+{
+  "resolution": [
+    4800,
+    3102
+  ],
+  "changes": [
+    "A and B neutral fragments now use same proximal-chain lengths as parent/PB products",
+    "B PB products shortened to match parent and diagnostic distal chains",
+    "alkene inner bond strokes made parallel",
+    "ring-chain coordinate and distal-vertex checks executed in builder"
+  ],
+  "carbon_checks": [
+    {
+      "isomer": "A",
+      "channel": "aldehyde diagnostic / alkene neutral",
+      "carbon_conservation_for_displayed_segment": true
+    },
+    {
+      "isomer": "A",
+      "channel": "alkene diagnostic / aldehyde neutral",
+      "carbon_conservation_for_displayed_segment": true
+    },
+    {
+      "isomer": "B",
+      "channel": "aldehyde diagnostic / alkene neutral",
+      "carbon_conservation_for_displayed_segment": true
+    },
+    {
+      "isomer": "B",
+      "channel": "alkene diagnostic / aldehyde neutral",
+      "carbon_conservation_for_displayed_segment": true
+    }
+  ],
+  "mass_checks": {
+    "acetone_nominal_mass": 58,
+    "alkene_vs_aldehyde_diagnostic_nominal_difference": 26
+  },
+  "passed": [
+    "SVG parse",
+    "PNG decode",
+    "four carbon-conservation checks for displayed skeletons",
+    "builder ring endpoint and diagnostic/product distal-length assertions",
+    "rendered preview inspection"
+  ],
+  "limits": [
+    "Wavy ends represent unspecified continuation; whole-molecule formula and exact source parity are not certified.",
+    "These checks validate reconstructed schematic internal consistency, not original experimental data or exact low-resolution source atom counts."
+  ]
+}
