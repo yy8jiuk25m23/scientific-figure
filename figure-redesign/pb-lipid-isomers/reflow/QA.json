@@ -1,0 +1,10 @@
+{
+  "png_dimensions": [
+    4800,
+    3420
+  ],
+  "svg": "native editable text and vector geometry, no embedded raster",
+  "validation": "PNG decode, SVG XML and key-label checks passed; rendered layout visually inspected",
+  "scientific_review": "Reconstructed PB/CID and MS workflow. Chemical drawings and plotted geometry are schematic reconstructions; atom-by-atom source parity and experimental numerical parity are not independently certified.",
+  "rearrangement_authorization": "User explicitly permits new layout while retaining chemical principles and logical relationships."
+}
