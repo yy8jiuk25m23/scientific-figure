@@ -1,0 +1,36 @@
+{
+  "status": "LAYOUT-ONLY DRAFT; chemical reference pending",
+  "palette": {
+    "isomer_A": "#0B675E",
+    "isomer_B": "#CC5034",
+    "apparatus_axes_arrows": "#333B43",
+    "UV_illumination": "#8654A7"
+  },
+  "complete_output": [
+    4800,
+    3396
+  ],
+  "PB_only_output": [
+    4800,
+    1620
+  ],
+  "standalone_panel_letter": "B for review triptych; content is generic Figure1A PB/CID schematic",
+  "layout_changes": [
+    "quantitation title now 36 coordinate units below detector boxes, previously 19",
+    "purple illumination lines point at capillary reaction region",
+    "uniform frame strokes",
+    "diagnostic-peak window to zoom guide connections",
+    "oxygen glyph alignment uses explicit central baseline on existing ring vertices; graph unchanged"
+  ],
+  "chemical_changes": "None: prior v3 schematic geometry retained pending unique source identification. Existing hard-coded chain lengths are unverified.",
+  "checks": [
+    "SVG parsing, PNG decode, native vector content",
+    "PB-only DOM contains no instrument or quantitative scene",
+    "254 nm, nanoESI-MS labels retained"
+  ],
+  "blocked": [
+    "Reference Figure1 identity unresolved: uploaded 2014 PDF figure uses a-e/1-6/mz171.1/197.2; earliest chat diagram uses A-B/m1-m2/n1-n2/calibration.",
+    "Original 677x661 chat diagram is not available as a file for faithful preservation of unverified structure regions.",
+    "Final atom-by-atom reference checks and print-size legibility unverified."
+  ]
+}
